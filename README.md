@@ -1,5 +1,5 @@
 # Bem-Estar
-Projeto Bem-Estar voltado para cadastro de consultas médicas
+Projeto Bem-Estar voltado para o agendamento de consultas médicas
 
 ### Nome da Equipe
 Ana Raquel Soares Magalhães - 2022010348 ;
@@ -22,7 +22,7 @@ Este projeto visa melhorar o acesso a serviços de bem-estar, permitindo que os 
 
 **Agendamento de Consultas**: Os usuários podem marcar consultas com profissionais de saúde, como médicos, psicólogos e nutricionistas entre outros.
 
-**Acesso a Recursos**: O sistema oferece acesso a históricos de consultas, planos de saúde e materiais educativos sobre bem-estar.
+**Acesso a Recursos**: O sistema oferece acesso a históricos de consultas, planos de saúde e materiais educativos para manter uma mente sã num corpo são.
 
 **Lembretes e Notificações**: Os usuários recebem lembretes automáticos sobre consultas agendadas e outras atividades.
 
