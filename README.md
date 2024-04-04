@@ -8,6 +8,6 @@ Emanohelly Pereira De Sousa - 2022011873;
 
 Mozar Henrique Ferreira Mascarenhas Filho -2022010310;
 
-Lariça Géorgia Barbosa De Oliveira - 20220336;
+Lariça Géorgia Barbosa De Oliveira - 2022011336;
 
 Guilherme Da Silva Delmiro - 2022011766;
