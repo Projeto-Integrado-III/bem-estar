@@ -29,13 +29,13 @@ Este projeto visa melhorar o acesso a serviços de bem-estar, permitindo que os 
 **Perfil Personalizado**: Cada usuário tem um perfil onde pode acompanhar seu histórico de agendamentos e preferências.
 
 ### ACESSO
-Acesso atraves do link: 
+Acesso atraves do link: [Bem Estar](https://projeto-integrado-iii.github.io/bem-estar/)
 
 ### TECNOLOGIA UTILIZADA
 HTML, CSS e BOOTSTRAP
 
 ### LICENÇA
-Este projeto está sob a licença (sua licença) 
+Este projeto está sob a licença MIT License
 
 ### CONTATO
 Para mais informações, entre em contato os desenvolvedores.
