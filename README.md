@@ -36,3 +36,6 @@ HTML, CSS e BOOTSTRAP
 
 ### LICENÇA
 Este projeto está sob a licença (sua licença) 
+
+### CONTATO
+Para mais informações, entre em contato os desenvolvedores.
