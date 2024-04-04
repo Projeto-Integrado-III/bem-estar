@@ -13,6 +13,17 @@ Lariça Géorgia Barbosa De Oliveira - 2022011336;
 Guilherme Da Silva Delmiro - 2022011766;
 
 ### DOCUMENTAÇÃO
-###  Readme Template
+### README TEMPLATE
+
 Bem vindos ao Projeto Bem-Estar! 
-O projeto visa disponibilizar agilidade, facilidade no processo de agendamentos e controles de históricos de clientes.
+Este projeto visa melhorar o acesso a serviços de bem-estar, permitindo que os usuários agendem consultas, terapias e outras atividades relacionadas à saúde mental e física.
+
+### FUNCIONALIDADES
+
+**Agendamento de Consultas**: Os usuários podem marcar consultas com profissionais de saúde, como médicos, psicólogos e nutricionistas.
+**Acesso a Recursos**: O sistema oferece acesso a históricos de consultas, planos de saúde e materiais educativos sobre bem-estar.
+**Lembretes e Notificações**: Os usuários recebem lembretes automáticos sobre consultas agendadas e outras atividades.
+**Perfil Personalizado**: Cada usuário tem um perfil onde pode acompanhar seu histórico de agendamentos e preferências.
+
+
+
