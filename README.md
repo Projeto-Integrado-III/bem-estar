@@ -34,3 +34,5 @@ Acesso atraves do link:
 ### TECNOLOGIA UTILIZADA
 HTML, CSS e BOOTSTRAP
 
+### LICENÇA
+
