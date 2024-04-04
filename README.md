@@ -28,6 +28,9 @@ Este projeto visa melhorar o acesso a serviços de bem-estar, permitindo que os 
 
 **Perfil Personalizado**: Cada usuário tem um perfil onde pode acompanhar seu histórico de agendamentos e preferências.
 
+### ACESSO
+Acesso atraves do link: 
+
 ### TECNOLOGIA UTILIZADA
 HTML, CSS e BOOTSTRAP
 
