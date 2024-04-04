@@ -1,8 +1,9 @@
 # bem-estar
 Projeto Bem-Estar voltado para cadastro de consultas médicas
 
-ANA RAQUEL SOARES MAGALHÃES -2022010348 ;
-EMANOHELLY PEREIRA DE SOUSA - 2022011873;
-MOZAR HENRIQUE FERREIRA MASCARENHAS FILHO -202201030;
-LARIÇA GÉORGIA BARBOSA DE OLIVEIRA - 20220336;
-GUILHERME DA SILVA DELMIRO - 202201766;
+Ana Raquel Soares Magalhães -2022010348 ;
+Emanohelly Pereira De Sousa - 2022011873;
+Mozar Henrique Ferreira Mascarenhas Filho -202201030;
+Lariça Géorgia Barbosa De Oliveira - 20220336;
+Guilherme Da Silva Delmiro - 202201766;
+
