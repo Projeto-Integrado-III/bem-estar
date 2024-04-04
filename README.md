@@ -20,7 +20,7 @@ Este projeto visa melhorar o acesso a serviços de bem-estar, permitindo que os 
 
 ### FUNCIONALIDADES
 
-**Agendamento de Consultas**: Os usuários podem marcar consultas com profissionais de saúde, como médicos, psicólogos e nutricionistas.
+**Agendamento de Consultas**: Os usuários podem marcar consultas com profissionais de saúde, como médicos, psicólogos e nutricionistas entre outros.
 
 **Acesso a Recursos**: O sistema oferece acesso a históricos de consultas, planos de saúde e materiais educativos sobre bem-estar.
 
