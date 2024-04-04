@@ -13,3 +13,6 @@ Lariça Géorgia Barbosa De Oliveira - 2022011336;
 Guilherme Da Silva Delmiro - 2022011766;
 
 ### DOCUMENTAÇÃO
+###  Readme Template
+Bem vindos ao Projeto Bem-Estar! 
+O projeto visa disponibilizar agilidade, facilidade no processo de agendamentos e controles de históricos de clientes.
